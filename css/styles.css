@@ -1,3 +1,13 @@
 .tigers p {
   background-color: orange;
+  width: 300px;
+  float: left;
 }
+.cats p {
+  font-weight: bold;
+  font-style: italic;
+  width: 300px;
+  float: left;
+}
+.dogs p {   width: 300px;
+  float: left;}
